@@ -1,10 +1,6 @@
 # Three Tier Architecture Deployment on AWS EKS
 
-This  micro service application has been built using these technologies:
-![image](https://github.com/pushkar3002/3-Tire-Application/assets/144597454/3b6f81fb-3d16-4d65-9087-daddd1e4fa72)
-
-
-
+Robot Shop is a microservice application. This Application is designed using various Micro services. In this application user can buy Robert's and other AI based products.
 
 This sample microservice application has been built using these technologies:
 - NodeJS ([Express](http://expressjs.com/))
